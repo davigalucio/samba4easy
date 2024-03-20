@@ -16,6 +16,7 @@ git clone https://github.com/davigalucio/samba4easy.git
 # Execute o arquivos .sh na pasta Linux clonado do repositório
 
  sh linux/samba4easy.sh
+ sh samba4easy/samba4easy.sh
 
 # Atenção:
 # Edite o arquivo para DEFINIR o nome do seu Dominio preferêncial, e altere a senha do "Administrator"
