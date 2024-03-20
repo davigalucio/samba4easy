@@ -10,13 +10,11 @@ apt install -y git
 
 # Clone o repositório
 
-git clone https://github.com/davigalucio/linux.git
 git clone https://github.com/davigalucio/samba4easy.git
 
 # Execute o arquivos .sh na pasta Linux clonado do repositório
 
- sh linux/samba4easy.sh
- sh samba4easy/INSTALL.SH
+sh samba4easy/INSTALL.SH
 
 # Atenção:
 # Edite o arquivo para DEFINIR o nome do seu Dominio preferêncial, e altere a senha do "Administrator"
