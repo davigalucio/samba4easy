@@ -11,6 +11,7 @@ apt install -y git
 # Clone o repositório
 
 git clone https://github.com/davigalucio/linux.git
+git clone https://github.com/davigalucio/samba4easy.git
 
 # Execute o arquivos .sh na pasta Linux clonado do repositório
 
